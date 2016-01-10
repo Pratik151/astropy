@@ -164,6 +164,9 @@ Bug fixes
 
 - ``astropy.utils``
 
+- The astropy.utils.compat.gzip module has now been deprecated. Use the
+  Python 'gzip' module directly instead. [#4464]
+
 - ``astropy.visualization``
 
 - ``astropy.vo``
